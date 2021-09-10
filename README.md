@@ -5,8 +5,8 @@
 Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".
 This is my 1st project in this series.  In addition, I am learning <b>jQuery</b>. I am uploading both <b>JavaScript</b> and <b>jQuery</b> files to the project files*
  
-## *Online demo:
-https://color-flipper-simple.netlify.app/*
+## *Online demo:*
+https://color-flipper-simple.netlify.app/
 
 ## *Used Technologies*
 *HTML, CSS, JavaScript*
