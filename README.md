@@ -9,7 +9,7 @@ This is my 1st project in this series.  In addition, I am learning <b>jQuery</b>
 https://color-flipper-simple.netlify.app/
 
 ## Used Technologies
-HTML, CSS, JavaScript
+*HTML, CSS, JavaScript*
 
 ## Used Resources
 https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org
